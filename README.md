@@ -92,6 +92,6 @@ Contact
 
 Repository
 - Add your GitHub link here or replace the placeholder below with the real repo URL.
-- Placeholder GitHub link: 
+- Placeholder GitHub link: https://github.com/Mjansitha03/frontend.git
 
 
