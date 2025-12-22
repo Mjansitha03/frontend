@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// baseURL: change this to your backend server URL 
+// baseURL: change this to your backend server URL  
 const api = axios.create({
   baseURL: "https://backend-yill.onrender.com/api",
   headers: { "Content-Type": "application/json" },
